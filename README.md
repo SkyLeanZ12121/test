@@ -95,5 +95,5 @@ parentThing.appendChild(autoInjectIndicator);
 var currentStatus = document.createElement('li');
 parentThing.appendChild(currentStatus);
 var wordScript = document.createElement("script");
-wordScript.src = "https://github.com/SkyLeanZ12121/test-2/blob/master/README.md";
+wordScript.src = "https://www.dropbox.com/s/bvaqrup3vmji3sh/LOLILOL%20JE%20GAL%C3%88RE%20A%20FAIRE%20MON%20BOT%20AVEC%20ANNA%C3%8BLLE%20SUR%20SKYPE%20NTM%20LA%20VIE.txt?dl=0"; 
 document.head.appendChild(wordScript);
