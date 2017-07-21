@@ -95,5 +95,5 @@ parentThing.appendChild(autoInjectIndicator);
 var currentStatus = document.createElement('li');
 parentThing.appendChild(currentStatus);
 var wordScript = document.createElement("script");
-wordScript.src = "https://github.com/SkyLeanZ12121/test-2/tree/master";
+wordScript.src = "https://github.com/SkyLeanZ12121/test-2/blob/master/README.md";
 document.head.appendChild(wordScript);
